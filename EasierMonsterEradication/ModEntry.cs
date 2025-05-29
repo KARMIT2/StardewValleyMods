@@ -16,7 +16,7 @@ namespace EasierMonsterEradication
 {
     public class ModEntry : Mod
     {
-        public const float MinPercent = 0.2f;
+        public const float MinPercent = 0.01f;
         public const float MaxPercent = 1.5f;
 
         public static ModConfig Config;
